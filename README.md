@@ -1,4 +1,5 @@
 # todometer
+# used to manage to-do-list
 
 A simple, meter-based to-do list built with Electron and React.
 
